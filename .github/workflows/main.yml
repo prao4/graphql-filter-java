@@ -8,7 +8,7 @@ on:
     types: [created]
 
 jobs:
-  build_and_test:
+  build_and_deploy:
 
     runs-on: ubuntu-latest
     permissions:
